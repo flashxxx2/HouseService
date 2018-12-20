@@ -1,5 +1,4 @@
 package ru.itpark.domain;
-
 public class House {
     private int id;
     private int price;
